@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WeScaleUp Snippets
  * Description: Custom snippets manager with local and GitHub integration
- * Version: 1.2.7
+ * Version: 2.2.2
  * Author: WeScaleUp
  */
 
